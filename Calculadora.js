@@ -1,5 +1,5 @@
- commit
- let vitorias = 95;
+
+let vitorias = 95;
 let derrotas = 20; 
 let quantidadeDeVitorias = (vitorias - derrotas);
 let saldoDeVitorias = quantidadeDeVitorias;
